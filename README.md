@@ -64,4 +64,6 @@ sf::Color trajectoryColors[3] = {sf::Color::Yellow, sf::Color::Blue, sf::Color::
 
 Chương trình được tạo bởi sự kết hợp giữa Grok AI (xAI) và DeepSeek AI
 
+[Demo](https://www.youtube.com/shorts/HPxQiB41GaA)
+
 [Trở về trang chủ](https://github.com/roboeinlife-glitch)
